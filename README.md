@@ -1,2 +1,0 @@
-# PhaserGame-Dog
-Game Development
